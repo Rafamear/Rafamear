@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rafamear
 - 👀 I’m interested in all :)
-- 🌱 I’m currently learning font end
+- 🌱 I’m currently learning front end
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
